@@ -1,0 +1,24 @@
+.header {
+    color: rgb(4, 92, 4);
+}
+.header a {
+    color: rgb(5, 109, 109);
+}
+.title {
+    color: rgb(100, 58, 28);
+}
+.sort {
+    color: rgb(223, 41, 56);
+}
+.sort a {
+    color: rgb(69, 14, 121);
+}
+.h3 {
+    color: chocolate;
+}
+.img {
+    color: rgb(122, 118, 120);
+}
+.title-footer {
+    color: rgb(139, 15, 15);
+}
